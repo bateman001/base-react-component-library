@@ -7,7 +7,7 @@ Hi this is a base project for a react component library. This project is meant t
 1. Run `npm install`
 2. In package.json update `name` to the name of your library
 3. Update registery in publishConfig like this `https://npm.pkg.github.com/<GITHUB_ACCOUNT_NAME>`
-4. create a `.npmrc` file that looks something like this
+4. create a global `.npmrc` file that looks something like this
 
     ```
     registry=https://registry.npmjs.org/
